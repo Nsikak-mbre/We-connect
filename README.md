@@ -17,7 +17,7 @@ To get started with We-connect, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/We-connect.git
+   git clone git@github.com:Nsikak-mbre/We-connect.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
