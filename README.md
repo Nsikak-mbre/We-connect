@@ -56,5 +56,3 @@ This project is licensed under the MIT License -
 ## Contact
 
 For any queries or feedback, please reach out at nsikakmbre@gmail.com
-
-Feel free to customize any part of this template to better suit your application's specific needs. Let me know if you need more help or any additional features you want to include in your README!
